@@ -25,9 +25,9 @@ The dataset includes information on:
 Average Fatality Rate by Purpose of Flight: This chart shows the average fatality rate by purpose of flight. Ariel Application had the lowest fatality rate. 
 ![image](images/image_1.png)
 Average Fatality Rate by Aircraft Make: This chart shows which Aircraft make has the lowest fatality rate with samples of each instance over 30 to assure statistical signifigance. 
-![image](images/image_2.png)
+![alt text](images/image_2.png)
 Average Fatality Rate by Location: The fatality rate by location shows which states/territories have a fatality rate of under 1. If the states/territories was over 1 then we recommend that they do not fly in those areas. 
-![image](images/image_3.png)
+![alt text](images/image_3.png)
 
 
 ## Conclusion
@@ -39,6 +39,3 @@ Based on the analysis of these three parameters, my recommendation to investors 
     * Reason: lowest average fatality rate of any make with %1.7241 rate per accident. 1 fatality out of 58 aviation incidents.
 * State/Territory Location (US Only): Any location excluding Virgin Islands, Atlantic Ocean, Gult of Mexico, Washington D.C. and Guam
     * Reason: The 5 locations listed above have a mean of over 1.00 meaning death is likely to occur in an aviation accident.
-
-
-
