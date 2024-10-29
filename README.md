@@ -29,6 +29,7 @@ Average Fatality Rate by Aircraft Make: This chart shows which Aircraft make has
 Average Fatality Rate by Location: The fatality rate by location shows which states/territories have a fatality rate of under 1. If the states/territories was over 1 then we recommend that they do not fly in those areas. 
 ![image](images/image_3.png)
 
+Tableau Dashboard Link: https://public.tableau.com/app/profile/isaac.buck/viz/Project1Workbook_17299782724070/Project1Dashboard?publish=yes
 
 ## Conclusion
 Based on the analysis of these three parameters, my recommendation to investors on the safest investments is for Ariel Applications using the GRUMMAN ACFT ENG COR-SCHWEIZER aircraft and any location in the United States excluding Virgin Islands, Atlantic Ocean, Gult of Mexico, Washington D.C. and Guam. 
